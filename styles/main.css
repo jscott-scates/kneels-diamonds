@@ -1,0 +1,29 @@
+#container {
+    color: #42403e;
+}
+
+.choices {
+    display: flex;
+}
+.options{
+    display:flex; 
+    flex-direction: column;
+    margin: 20px;
+    border: dotted rgb(57, 111, 218);
+    padding: 20px; 
+    border-radius: 15px;
+    box-shadow: 1px 5px 5px #42403e;
+}
+
+button {
+   background-color: #dc4b44;
+   border: solid #42403e;
+   margin: 20px;
+   color: #fde8c7;
+   font-size: 15px;
+   padding: 5px;
+   box-shadow: 1px 5px 5px #42403e;
+}
+.order{
+    padding:5px;
+}
